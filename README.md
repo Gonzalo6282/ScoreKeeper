@@ -1,4 +1,4 @@
-# ScoreKepper
+# Score Kepper
 
 [Live demo](http://scorekeeper-bulma.s3-website.eu-west-2.amazonaws.com/)
 
